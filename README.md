@@ -1,2 +1,40 @@
-# project
-My job
+##Project Name:"Student data management system"
+
+#Description:
+The student management system is a console application system,where we can manage student data.In this project we can make proper student data management card.Moreover give chance to modify the system using program.The system is design for console base application.
+
+##Features:
+1.Add student details.
+2.Show all student details.
+3.Delete specific student details and show.
+4.Search student details and show.
+5.Update student data and show details
+6.Yes/No option after every operation.
+
+##Oop features uss:
+1.Class.
+2.Abstraction.
+3.inheritence.
+4.Function(nested function and loops).
+5.Stl.
+6.Manage console I/O.
+Many more features are use in this program.We can change few features for future.
+
+##Working of the project:
+1.At first when one open console the console will give 6 option like(add,display,update,search,delete,exit)
+2.A user have to choose one option from 1 to 5 and give input by console.
+3.At first need to give click 1 to add student details.Then adding  student as our reqirment and before every input press.
+4.After adding information we can do what operation we want like more adding student,search student,delete,update student.But every time need to chosose option like 1,2,3 like.
+5.After every operation console will give yes or no option to continue or exit.So after every operation need to assure yes by pressing (y) or (n) for stop program.
+6.Thus this whole process work.
+
+##Programmer:
+Name:Mansief Bhyan.
+Roll.2007022.
+Year.2nd.
+Term.1st.
+E-mail:mansuefbhyan@gmail.com
+
+
+
+
